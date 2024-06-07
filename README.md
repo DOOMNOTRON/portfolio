@@ -10,3 +10,11 @@ I will build a portfolio website using react, vite, and tailwindcss.
 ### TailWindCSS W/Vite QuickStart Guide
 [Official Documentation](https://tailwindcss.com/docs/guides/vite)
 
+### Packages
+[React-Icons](https://react-icons.github.io/react-icons/)
+- Allows us to use several icons
+
+Command:
+```
+npm install react-icons --save
+```
