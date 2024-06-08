@@ -21,3 +21,7 @@ npm install react-icons --save
 
 ### Background Code Snippets
 [https://bg.ibelick.com/](https://bg.ibelick.com/)
+
+### Deployment
+
+[Vercel](https://vercel.com/)
