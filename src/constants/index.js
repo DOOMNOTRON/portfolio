@@ -13,21 +13,21 @@ export const EXPERIENCES = [
     role: "Tool Maker",
     company: "Boeing",
     description: `I receive the plans, from engineering, for a new tool to be created to assist in the production of commercial airplane. We take the blueprints and build the tool based on the specifications. We also provide maintenance to and reword pre-existing tools.`,
-    technologies: ["REDARS", "CITRIX"],
+    technologies: ["REDARS", "CITRIX", "Microsoft Office"],
   },
   {
     year: "2018 - 2020",
     role: "Hand Finisher",
     company: "Boeing",
     description: `I received aluminum airplane wings from the mills to smooth out the sharp edges and form them to the specifications on the blueprints.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    technologies: ["Orbital Sander", "Trim Router", "Pneumatic Tools"],
   },
   {
     year: "2005 - 2014",
     role: "Front office coordinator",
     company: "Jasmin Terrace at El Molino",
     description: `I was the first point of contact for the families that came to visit their loved ones. I handled the security and phone systems.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    technologies: ["Microsoft Office", "Security System", "Phone System"],
   },
   
 
