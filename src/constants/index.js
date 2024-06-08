@@ -11,8 +11,8 @@ export const EDUCATION = [
   {
     year: "2021 - 2023",
     school: "Clover Park Technical College",
-    degree: "Associate of Applied Technology in Computer Programming",
-    GPA: 3.65,
+    degree: "Associate of Applied Technology - Computer Programming",
+    GPA: "GPA: 3.65",
   },
   {
     year: "1999 - 2003",
