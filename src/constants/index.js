@@ -7,6 +7,20 @@ export const EDGAR_CONTENT = `I am a passionate full stack developer and my drea
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer who loves to create. I have worked with a variety of technologies, including React, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began when I was layed off from Boeing and I attempted to learn to code. Outside of coding, I enjoy spending time with my bunnies, exploring new technologies, and I am currently learning about how to participate in a game jam.`;
 
+export const EDUCATION = [
+  {
+    year: "2021 - 2023",
+    school: "Clover Park Technical College",
+    degree: "Associate of Applied Technology in Computer Programming",
+    GPA: 3.65,
+  },
+  {
+    year: "1999 - 2003",
+    school: "Blair HighSchool",
+    degree: "HighSchool Degree",
+  },
+];
+
 export const EXPERIENCES = [
   {
     year: "2023 - Present",
