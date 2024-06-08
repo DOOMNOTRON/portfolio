@@ -2,6 +2,8 @@
 
 I will build a portfolio website using react, vite, and tailwindcss.
 
+https://github.com/DOOMNOTRON/portfolio/assets/97191134/1989ae64-1dfe-47b2-a77a-1077992231a6
+
 ## Requirements
 1. [VS Code](https://code.visualstudio.com/)
 2. [Node JS](https://nodejs.org/en)
