@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer.`;
+export const EDGAR_CONTENT = `I am a passionate full stack developer and my dream is to get enough experience to get a job programming.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer who loves to create. I have worked with a variety of technologies, including React, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began when I was layed off and attempted to learn to code. Outside of coding, I enjoy spending time with my bunnies, exploring new technologies, and learning about entering a game jam.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer who loves to create. I have worked with a variety of technologies, including React, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began when I was layed off from Boeing and I attempted to learn to code. Outside of coding, I enjoy spending time with my bunnies, exploring new technologies, and I am currently learning about how to participate in a game jam.`;
 
 export const EXPERIENCES = [
   {

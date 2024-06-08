@@ -1,4 +1,4 @@
-import { HERO_CONTENT } from "../constants";
+import { EDGAR_CONTENT } from "../constants";
 import profilePic from "../assets/EC_Pic.svg"
 
 const Hero = () => {
@@ -13,8 +13,8 @@ const Hero = () => {
                         <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
                             Full Sack Developer
                         </span>
-                        <p className="my-2 max-w-xl py-6 font-light tracking-tighter">
-                            {HERO_CONTENT}
+                        <p className="my-2 max-w-xl py-6">
+                            {EDGAR_CONTENT}
                         </p>
                     </div>
                 </div>
